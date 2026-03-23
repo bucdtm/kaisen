@@ -5,14 +5,9 @@
 4. Push to the branch (`git push origin my-change`)
 5. Create new pull request
 
-### Mod Links
+### Mod Links of wood-m-corp
   https://curseforge.com/minecraft/mc-mods/sorcery-age
 
   https://modrinth.com/mod/sorcery-age
 
-### Support
-  If you would like to join the community, the Discord can be found at https://discord.gg/vnMART3Kqq
-
-  If you would personally like to contribute assets such as models and textures, please reach out to me!
-
-  If you would like to leave a donation, I am accepting at https://ko-fi.com/therealwoodman. Thank you in advance!
+### Made by Radon and wood-m-corp
